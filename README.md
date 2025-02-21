@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm ChiChi! 👋
 
-<!--
-**eatdreamcat/eatdreamcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, open-source contributions, and building cool projects. 🚀
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![ChiChi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eatdreamcat&show_icons=true&theme=radical&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eatdreamcat&theme=react-dark)
+
+## 🚀 Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eatdreamcat&layout=compact&theme=radical)
+
+## 🏆 Achievements & Badges
+![Followers](https://img.shields.io/github/followers/eatdreamcat?style=social)
+![Stars](https://img.shields.io/github/stars/eatdreamcat?style=social)
+
+## 🎯 Visitor Count
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=eatdreamcat.visitor-badge)
+
+## 🔧 Tools & Technologies
+- **Languages:** C++, C#
+- **Frameworks & Libraries:** Avalonia, Vulkan
+- **Tools:** Git
+
+
+Thanks for stopping by! Feel free to explore my repositories and contribute. Happy coding! 🚀
+
