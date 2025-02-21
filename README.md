@@ -16,7 +16,8 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source contribut
 ![Stars](https://img.shields.io/github/stars/eatdreamcat?style=social)
 
 ## 🎯 Visitor Count
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=eatdreamcat.visitor-badge)
+![Visitor Count](https://count.getloli.com/get/@eatdreamcat)
+
 
 ## 🔧 Tools & Technologies
 - **Languages:** C++, C#
